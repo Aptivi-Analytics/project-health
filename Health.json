@@ -1,0 +1,17 @@
+[
+  {
+    "ProjectName": "Kernel Simulator",
+    "IsDegraded": true,
+    "AffectedVersion": "0.1.0 Milestone X",
+    "DiscoveredDate": "December 31, 2022",
+    "Description": "A bug in Inxi.NET caused unrooted Android devices to fail to start up KS with JSON errors."
+  },
+  {
+    "ProjectName": "Inxi.NET",
+    "IsDegraded": true,
+    "AffectedVersion": "2022.3.1.1",
+    "DiscoveredDate": "December 31, 2022",
+    "Description": "Inxi.NET throws JSON errors on unrooted Android devices instead of getting device information."
+  }
+]
+
