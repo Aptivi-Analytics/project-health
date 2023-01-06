@@ -1,10 +1,10 @@
 [
   {
     "ProjectName": "Kernel Simulator",
-    "IsDegraded": true,
+    "IsDegraded": false,
     "AffectedVersion": "0.1.0 Milestone X",
-    "DiscoveredDate": "December 31, 2022",
-    "Description": "A bug in Inxi.NET caused unrooted Android devices to fail to start up KS with JSON errors. This bug is fixed, but not ported over to KS yet. As a workaround, copy the latest Inxi.NET files (2022.3.1.2) to the same path as the Kernel Simulator executable."
+    "DiscoveredDate": "January 4, 2023",
+    "Description": "The bug is fixed with the latest build as of January 4, 2023."
   },
   {
     "ProjectName": "Inxi.NET",
