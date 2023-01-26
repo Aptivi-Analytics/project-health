@@ -1,17 +1,10 @@
 [
   {
-    "ProjectName": "Kernel Simulator",
-    "IsDegraded": false,
+    "ProjectName": "Nitrocid KS",
+    "IsDegraded": true,
     "AffectedVersion": "0.1.0 Milestone X",
-    "DiscoveredDate": "January 4, 2023",
-    "Description": "The bug is fixed with the latest build as of January 4, 2023."
-  },
-  {
-    "ProjectName": "Inxi.NET",
-    "IsDegraded": false,
-    "AffectedVersion": "2022.3.1.1",
-    "DiscoveredDate": "January 2, 2022",
-    "Description": "Inxi.NET throws JSON errors on unrooted Android devices instead of getting device information. Fixed at version 2022.3.1.2 and tested with Android 13 and an unrooted Samsung Galaxy Tab S8."
+    "DiscoveredDate": "January 26, 2023",
+    "Description": "Modern logon screen crashes when the old user config is encountered (config files that omit the full name key for usernames)."
   }
 ]
 
