@@ -1,10 +1,10 @@
 [
   {
     "ProjectName": "Nitrocid KS",
-    "IsDegraded": true,
-    "AffectedVersion": "0.1.0 Milestone X",
-    "DiscoveredDate": "January 26, 2023",
-    "Description": "Modern logon screen crashes when the old user config is encountered (config files that omit the full name key for usernames)."
+    "IsDegraded": false,
+    "AffectedVersion": "0.1.0 Pre-Beta 1",
+    "DiscoveredDate": "January 28, 2023",
+    "Description": "[This bug is fixed!] Modern logon screen crashes when the old user config is encountered (config files that omit the full name key for usernames)."
   }
 ]
 
